@@ -1,0 +1,29 @@
+[
+  {
+    "book": "Science",
+    "pages": 450,
+    "borrowed": true,
+    "users": [
+      { "id": 1, "name": "Fahad" },
+      { "id": 2, "name": "Muhammad" }
+    ]
+  },
+  {
+    "book": "Math",
+    "pages": 1150,
+    "borrowed": true,
+    "users": [
+      { "id": 1, "name": "Fahad" },
+      { "id": 2, "name": "Muhammad" }
+    ]
+  },
+  {
+    "book": "Calculas",
+    "pages": 1150,
+    "borrowed": true,
+    "users": [
+      { "id": 1, "name": "Fahad" },
+      { "id": 2, "name": "Muhammad" }
+    ]
+  }
+]
